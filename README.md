@@ -3,7 +3,7 @@ This program can be compiled with the [NetBeans IDE](https://netbeans.org/). Onc
 
 Individual Java files can be viewed under Sorting_Methods/Sorting Methods/src/wyatt/zachary/lab/pkg8/
 
-Is program uses Java to display the operations of several different sorting algorithms by generating a random list of integers for each one, and displaying the sorted results. I completed this project in fall 2017. 
+This program uses Java to display the operations of several different sorting algorithms by generating a random list of integers for each one, and displaying the sorted results. I completed this project in fall 2017. 
 
 This was to be done by means of a "driver class", that would generate lists, run them through the algorithms, and display the sorted results.
 
